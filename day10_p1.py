@@ -1,3 +1,5 @@
+# Advent of Code 2025 - Day 6
+# Solution 
 import re
 from itertools import combinations
 
@@ -36,5 +38,6 @@ for line in lines:
         
         if found_solution:
             break
+
 
 print("Answer for part 1:" , total)
