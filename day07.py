@@ -1,4 +1,4 @@
-# Advent of Code 2025 - Day 4
+# Advent of Code 2025 - Day 7
 # Solution
 from collections import defaultdict
 
@@ -63,5 +63,6 @@ for r in range(start_row + 1, height):
             break
 result = sum(timelines.values())
 print("Solution for part2:", result)
+
 
 
