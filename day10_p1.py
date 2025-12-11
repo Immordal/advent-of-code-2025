@@ -1,4 +1,4 @@
-# Advent of Code 2025 - Day 6
+# Advent of Code 2025 - Day 10
 # Solution 
 import re
 from itertools import combinations
@@ -41,3 +41,4 @@ for line in lines:
 
 
 print("Answer for part 1:" , total)
+
